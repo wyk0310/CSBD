@@ -9,3 +9,8 @@ Computer System Basic Design
 
 # Projects
 - Rating system of call priority
+
+# Contributor
+- 우용근(SHolicker, wyk0310)
+- 박종훈(Park Jong-Hun, qnrdlqkrwhdgns)
+- 문승제(MonChicken)
