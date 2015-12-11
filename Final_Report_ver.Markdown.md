@@ -26,8 +26,7 @@
 	- 상세 설계  
 		- 클래스 다이어그램  
 		- 순서도  
-	- 설계 심사  
-	- 제작 및 실험 / 개발 환경 ( 안드로이드 버전 타겟, 협업환경)  
+	- 개발 환경 ( 안드로이드 버전 타겟, 협업환경)  
 	- 예상 화면  
 - 평가  
 	- 시스템 스토리  
@@ -161,9 +160,16 @@ KT CS의 자사 스팸전화 통계수치에 따르면 올해 (2015) 1분기 스
 ![image11](https://github.com/wyk0310/CSBD/blob/master/src/image_class07.JPG?raw=true)  
 ![image12](https://github.com/wyk0310/CSBD/blob/master/src/image_class08.JPG?raw=true)  
 ![image13](https://github.com/wyk0310/CSBD/blob/master/src/image_class09.JPG?raw=true)  
-####설계 심사  
-####제작 및 실험 / 개발 환경 (안드로이드 버전 타겟, 협업 환경)  
+  
+####개발 환경 (안드로이드 버전 타겟, 협업 환경)  
+- 안드로이드 버전 4.0.3 이상 ( 이용자 수를 고려한 버전 )
+- 협업 환경 ( Github <https://github.com/wyk0310/CSBD> )
+- 문서 제작 툴 ( Haroopad <http://pad.haroopress.com/> )
+- 기타 ( Github 이용에 리눅스 대신 SourceTree <https://www.atlassian.com/software/sourcetree/overview> 사용 )  
+
 ####예상 화면  
+**최종발표 때 공개 예정**  
+
 **---**  
 ###평가
 
